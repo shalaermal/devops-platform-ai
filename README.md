@@ -38,7 +38,7 @@ Kind Cluster (Local Kubernetes)
         |-- Grafana (Metrics Visualization)
         |-- Loki (Log Aggregation)
         |-- AlertManager (Alerting)
-        |-- AI Agent (Incident Response) ← NEW
+        |-- AI Agent (Incident Response) 
         |-- HPA (Auto Scaling)
         |-- CronJobs (Scheduled Tasks)
         |
